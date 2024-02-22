@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/napi-export",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "C utilities for registering Node-API modules.",
   "license": "Apache-2.0",
   "author": {
@@ -37,10 +37,10 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/utils-library-manifest": "^0.2.0"
+    "@stdlib/utils-library-manifest": "^0.2.1"
   },
   "devDependencies": {
-    "@stdlib/assert-is-browser": "^0.1.1",
+    "@stdlib/assert-is-browser": "^0.2.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git"
