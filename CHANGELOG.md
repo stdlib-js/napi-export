@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-09-08)
+## Unreleased (2024-09-10)
 
 <section class="features">
 
@@ -16,12 +16,23 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`9ccfd33`](https://github.com/stdlib-js/stdlib/commit/9ccfd33ce711a105b6f7a056c7e57ea1b83e33c9) - ensure method is a Node-API value before setting property
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`9ccfd33`](https://github.com/stdlib-js/stdlib/commit/9ccfd33ce711a105b6f7a056c7e57ea1b83e33c9) - **fix:** ensure method is a Node-API value before setting property _(by Athan Reines)_
 -   [`95d61ed`](https://github.com/stdlib-js/stdlib/commit/95d61edd60198d6e8087028db85c4dbfb0ed5d40) - **docs:** fix macro name _(by Athan Reines)_
 -   [`6d9052e`](https://github.com/stdlib-js/stdlib/commit/6d9052e1c0fbfb835a84ce3c2cf1ded578d282e4) - **feat:** add macro to export a function with a method _(by Athan Reines)_
 
