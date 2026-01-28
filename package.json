@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/napi-export",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "C utilities for registering Node-API modules.",
   "license": "Apache-2.0",
   "author": {
@@ -37,7 +37,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/utils-library-manifest": "^0.2.2"
+    "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/assert-is-browser": "^0.2.2",
@@ -68,11 +68,6 @@
     "exports",
     "macros"
   ],
-  "__stdlib__": {
-    "envs": {
-      "browser": false
-    }
-  },
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"
