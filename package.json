@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/napi-export",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "C utilities for registering Node-API modules.",
   "license": "Apache-2.0",
   "author": {
